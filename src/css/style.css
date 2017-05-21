@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  -webkit-padding-start: 0px;
+  -webkit-margin-before: 0px;
+  -webkit-margin-after: 0px;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
